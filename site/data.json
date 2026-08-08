@@ -1,0 +1,93 @@
+{
+  "slug": "presentation-studio",
+  "host": "presentation",
+  "title": "Presentation Studio",
+  "tagline": "Slides, pitch decks and webinars",
+  "description": "Build slide decks, pitch decks, and webinar and training presentations. Create interactive and data-driven slides, auto-generate decks with AI, design presentation themes, and write speaker notes with teleprompter support.",
+  "editors": [
+    {
+      "category": "Presentation Editors",
+      "name": "Slide Editor",
+      "desc": "Core slide creation and layout"
+    },
+    {
+      "category": "Presentation Editors",
+      "name": "Pitch Deck Editor",
+      "desc": "Investor/startup pitch decks"
+    },
+    {
+      "category": "Presentation Editors",
+      "name": "Webinar Deck Editor",
+      "desc": "Webinar presentation slides"
+    },
+    {
+      "category": "Presentation Editors",
+      "name": "Training Deck Editor",
+      "desc": "Educational training materials"
+    },
+    {
+      "category": "Presentation Editors",
+      "name": "Interactive Presentation Editor",
+      "desc": "Clickable/branching presentations"
+    },
+    {
+      "category": "Presentation Editors",
+      "name": "Data Presentation Editor",
+      "desc": "Data-heavy chart presentations"
+    },
+    {
+      "category": "Presentation Editors",
+      "name": "Auto-Presentation Editor",
+      "desc": "AI auto-generated slide decks"
+    },
+    {
+      "category": "Presentation Editors",
+      "name": "Story Presentation Editor",
+      "desc": "Narrative-driven storytelling slides"
+    },
+    {
+      "category": "Presentation Editors",
+      "name": "Presentation Theme Editor",
+      "desc": "Slide theme and styling"
+    },
+    {
+      "category": "Presentation Editors",
+      "name": "Speaker Notes Editor",
+      "desc": "Presenter notes and teleprompter"
+    }
+  ],
+  "services": [
+    [
+      "media",
+      "new"
+    ],
+    [
+      "document",
+      "core"
+    ],
+    [
+      "publishing",
+      "core"
+    ],
+    [
+      "agent",
+      "core"
+    ],
+    [
+      "model",
+      "core"
+    ],
+    [
+      "knowledge",
+      "core"
+    ],
+    [
+      "asset",
+      "gap"
+    ],
+    [
+      "collaboration",
+      "gap"
+    ]
+  ]
+}
